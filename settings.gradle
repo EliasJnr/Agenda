@@ -1,0 +1,1 @@
+include ':app', ':libs', ':ksoap2-j2me-core-2.1.2', ':ksoap2-android-assembly-2.5.2-jar-with-dependencies'

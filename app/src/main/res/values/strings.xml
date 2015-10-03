@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="hello_world">Inicio</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_listar">Listar</string>
+    <string name="action_settings">Settings</string>
+</resources>

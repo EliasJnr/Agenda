@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Agenda.iml" filepath="$PROJECT_DIR$/Agenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/ksoap2-android-assembly-2.5.2-jar-with-dependencies/ksoap2-android-assembly-2.5.2-jar-with-dependencies.iml" filepath="$PROJECT_DIR$/lib/ksoap2-android-assembly-2.5.2-jar-with-dependencies/ksoap2-android-assembly-2.5.2-jar-with-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksoap2-j2me-core-2.1.2/ksoap2-j2me-core-2.1.2.iml" filepath="$PROJECT_DIR$/ksoap2-j2me-core-2.1.2/ksoap2-j2me-core-2.1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+    </modules>
+  </component>
+</project>
